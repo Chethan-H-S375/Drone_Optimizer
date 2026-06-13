@@ -1,8 +1,0 @@
-[
-  "payload_kg",
-  "distance_km",
-  "battery_pct",
-  "wind_speed_mps",
-  "rain_mm",
-  "num_stops"
-]
